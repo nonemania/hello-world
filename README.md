@@ -1,9 +1,14 @@
 # hello-world
-Hi Phongsiri
-Hi Patnaree
 
-Add Function
 
+<<<<<<< HEAD
 Edit Master
 
 test
+=======
+Edit Master on Dev
+
+
+
+
+>>>>>>> master
