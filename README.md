@@ -2,8 +2,8 @@
 Hi Phongsiri
 Hi Patnaree
 
-Test Commit
 
+<<<<<<< HEAD
 Test Push Code 
 
 Edit Master
@@ -14,3 +14,5 @@ Edit Master 2
 
 
 Add Function
+=======
+>>>>>>> master
